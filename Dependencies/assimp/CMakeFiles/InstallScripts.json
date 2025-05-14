@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Dev/GigaboksOpenGL/Dependencies/assimp-master/cmake_install.cmake",
+		"C:/Dev/GigaboksOpenGL/Dependencies/assimp-master/contrib/zlib/cmake_install.cmake",
+		"C:/Dev/GigaboksOpenGL/Dependencies/assimp-master/code/cmake_install.cmake",
+		"C:/Dev/GigaboksOpenGL/Dependencies/assimp-master/test/cmake_install.cmake",
+		"C:/Dev/GigaboksOpenGL/Dependencies/assimp-master/test/headercheck/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

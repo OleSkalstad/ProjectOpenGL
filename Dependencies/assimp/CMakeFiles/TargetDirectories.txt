@@ -1,0 +1,13 @@
+C:/Dev/GigaboksOpenGL/Dependencies/assimp-master/CMakeFiles/uninstall.dir
+C:/Dev/GigaboksOpenGL/Dependencies/assimp-master/CMakeFiles/UpdateAssimpLibsDebugSymbolsAndDLLs.dir
+C:/Dev/GigaboksOpenGL/Dependencies/assimp-master/CMakeFiles/INSTALL.dir
+C:/Dev/GigaboksOpenGL/Dependencies/assimp-master/CMakeFiles/ALL_BUILD.dir
+C:/Dev/GigaboksOpenGL/Dependencies/assimp-master/CMakeFiles/ZERO_CHECK.dir
+C:/Dev/GigaboksOpenGL/Dependencies/assimp-master/contrib/zlib/CMakeFiles/zlibstatic.dir
+C:/Dev/GigaboksOpenGL/Dependencies/assimp-master/contrib/zlib/CMakeFiles/INSTALL.dir
+C:/Dev/GigaboksOpenGL/Dependencies/assimp-master/contrib/zlib/CMakeFiles/ALL_BUILD.dir
+C:/Dev/GigaboksOpenGL/Dependencies/assimp-master/code/CMakeFiles/assimp.dir
+C:/Dev/GigaboksOpenGL/Dependencies/assimp-master/code/CMakeFiles/INSTALL.dir
+C:/Dev/GigaboksOpenGL/Dependencies/assimp-master/test/CMakeFiles/unit.dir
+C:/Dev/GigaboksOpenGL/Dependencies/assimp-master/test/CMakeFiles/INSTALL.dir
+C:/Dev/GigaboksOpenGL/Dependencies/assimp-master/test/headercheck/CMakeFiles/INSTALL.dir
